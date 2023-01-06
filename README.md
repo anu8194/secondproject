@@ -1,4 +1,4 @@
 # secondproject
-intial commit
-second commit
-Third commit
+# intial commit
+## second commit
+### Third commit
